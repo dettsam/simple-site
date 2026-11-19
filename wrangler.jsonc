@@ -5,5 +5,7 @@
   // Everything inside the public folder is served as the website.
   "assets": {
     "directory": "./public"
-  }
+  },
+  // Lets Cloudflare build a preview link for each branch.
+  "previews": {}
 }
